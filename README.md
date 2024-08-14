@@ -16,11 +16,12 @@ Visualization: Provides probability density function (PDF) and cumulative distri
 
 ![image](https://github.com/user-attachments/assets/24a69898-a959-4dd3-8a4b-9234b8a8d9bb)
 
-Fig 1.
+**Fig 1. Contour Plots of Displacement Fields U and V.**
+
 
 ![image](https://github.com/user-attachments/assets/c9551430-8bb7-4a95-9f9e-618da29e53ec)
 
-Fig 2.
+Fig 2. CDF and PDF of displacement under 100 realizations 
 
 ![100_1000_5000](https://github.com/user-attachments/assets/2c556e9f-8998-460a-8dc5-5771727ad757)
 
