@@ -4,6 +4,9 @@ In many structural engineering problems, the material properties like Young's mo
 
 ## Features
 Finite Element Analysis (FEA): Performs 2D plane stress analysis using the FEM.
+
 Monte Carlo Simulation: Quantifies the uncertainty in structural displacements due to random variations in Young's modulus.
+
 Customizable Simulations: Easily adjust the number of Monte Carlo simulations and material properties.
+
 Visualization: Provides probability density function (PDF) and cumulative distribution function (CDF) plots for the displacement, highlighting the probabilistic nature of the structural response.
