@@ -10,3 +10,8 @@ Monte Carlo Simulation: Quantifies the uncertainty in structural displacements d
 Customizable Simulations: Easily adjust the number of Monte Carlo simulations and material properties.
 
 Visualization: Provides probability density function (PDF) and cumulative distribution function (CDF) plots for the displacement, highlighting the probabilistic nature of the structural response.
+
+## Results
+![image](https://github.com/user-attachments/assets/c9551430-8bb7-4a95-9f9e-618da29e53ec)
+
+Fig
