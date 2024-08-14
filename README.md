@@ -25,4 +25,4 @@ Visualization: Provides probability density function (PDF) and cumulative distri
 
 ![100_1000_5000](https://github.com/user-attachments/assets/2c556e9f-8998-460a-8dc5-5771727ad757)
 
-**Fig 3. CDF of Displacement for 100, 1000, and 5000 Simulations.**
+**Fig 3. CDF of Displacement for 100, 500, 1000, and 5000 Simulations.**
