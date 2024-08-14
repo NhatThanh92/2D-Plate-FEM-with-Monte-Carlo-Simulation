@@ -13,16 +13,14 @@ Visualization: Provides probability density function (PDF) and cumulative distri
 
 ## Results
 
+![image](https://github.com/user-attachments/assets/c9551430-8bb7-4a95-9f9e-618da29e53ec)
+
+**Fig 1. CDF and PDF of displacement obtained from 100 Monte Carlo simulations.** 
 
 ![image](https://github.com/user-attachments/assets/24a69898-a959-4dd3-8a4b-9234b8a8d9bb)
 
-**Fig 1. Contour Plots of Displacement Fields U and V.**
-
-
-![image](https://github.com/user-attachments/assets/c9551430-8bb7-4a95-9f9e-618da29e53ec)
-
-**Fig 2. CDF and PDF of displacement under 100 realizations.** 
+**Fig 2. Contour Plots of Displacement Fields U and V from the 10th Realization (Z=10) of 100 Monte Carlo simulations.**
 
 ![100_1000_5000](https://github.com/user-attachments/assets/2c556e9f-8998-460a-8dc5-5771727ad757)
 
-**Fig 3. CDF of Displacement for 100, 500, 1000, and 5000 Simulations.**
+**Fig 3. CDF of Displacement obtained from 100, 500, 1000, and 5000 Monte Carlo Simulations.**
