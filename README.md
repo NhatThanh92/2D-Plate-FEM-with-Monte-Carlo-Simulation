@@ -12,6 +12,16 @@ Customizable Simulations: Easily adjust the number of Monte Carlo simulations an
 Visualization: Provides probability density function (PDF) and cumulative distribution function (CDF) plots for the displacement, highlighting the probabilistic nature of the structural response.
 
 ## Results
+
+
+![image](https://github.com/user-attachments/assets/24a69898-a959-4dd3-8a4b-9234b8a8d9bb)
+
+Fig 1.
+
 ![image](https://github.com/user-attachments/assets/c9551430-8bb7-4a95-9f9e-618da29e53ec)
 
-Fig
+Fig 2.
+
+![100_1000_5000](https://github.com/user-attachments/assets/2c556e9f-8998-460a-8dc5-5771727ad757)
+
+Fig 3.
